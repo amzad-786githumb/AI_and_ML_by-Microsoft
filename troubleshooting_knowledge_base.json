@@ -1,0 +1,30 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    },
+    "device_overheating": {
+        "symptom": "My device gets very hot after a few minutes of use.",
+        "solution": "Close unused apps and keep the device in a cool environment."
+    },
+    "battery_drain": {
+        "symptom": "The battery drains too quickly.",
+        "solution": "Reduce screen brightness and disable background apps or location services."
+    },
+    "bluetooth_not_connecting": {
+        "symptom": "Bluetooth is not connecting to my headset.",
+        "solution": "Unpair and re-pair the device, and make sure Bluetooth is turned on for both devices."
+    },
+    "no_sound": {
+        "symptom": "There is no sound coming from my speakers.",
+        "solution": "Check volume settings and ensure that the audio output device is correctly selected."
+    },
+    "printer_not_responding": {
+        "symptom": "My printer is not responding to print commands.",
+        "solution": "Restart the printer and ensure it is properly connected to your computer or network."
+    }
+}
